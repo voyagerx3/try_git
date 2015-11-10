@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/geovannyinca/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/geovannyinca/AndroidStudioProjects/try_git/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-39c2d289c9f640783fc1462cf4a5b542428c529a.jar" />
+    </item>
+    <item
+        jar="/Users/geovannyinca/AndroidStudioProjects/try_git/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/geovannyinca/AndroidStudioProjects/try_git/app/build/intermediates/pre-dexed/debug/classes-4be8ee708be665be6858f14d5c98cb9f79068a58.jar" />
+    </item>
+    <item
+        jar="/Users/geovannyinca/AndroidStudioProjects/try_git/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/geovannyinca/AndroidStudioProjects/try_git/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-f0b7877a46a9d1769bbab86d58f691cd40591916.jar" />
+    </item>
+    <item
+        jar="/Users/geovannyinca/AndroidStudioProjects/try_git/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/geovannyinca/AndroidStudioProjects/try_git/app/build/intermediates/pre-dexed/debug/classes-24c8e59b4a3506b24975e26fc8e5a06748c0b7c8.jar" />
+    </item>
+
+</items>
